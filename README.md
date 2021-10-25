@@ -1,7 +1,7 @@
 # OREO Cookie Fantasy Football Analysis
 
 ## Overview
-This project is an amalgamation of various data investigations into the inner machinations of the OREO Cookie Fantasy Football League, the greatest fantasy football league in history. While I was in high school, the investigations were primarily done in Google Sheets or Microsoft Excel as I learned to unlock the powers of the spreadsheet. As I got to college, I gained familiarity with Python, Pandas and BeautifulSoup and the quality and significance of my inquiries began to shoot up. So, enjoy this growing collection of artifacts that represent my obession with numbers and fantasy football.
+This project is an amalgamation of various data investigations into the inner machinations of the OREO Cookie Fantasy Football League, the greatest fantasy football league in history. While I was in high school, the investigations were primarily done in Google Sheets or Microsoft Excel as I learned to unlock the powers of the spreadsheet. As I got to college, I gained familiarity with Python, Pandas and BeautifulSoup and the quality and significance of my inquiries began to rise. So, enjoy this growing collection of artifacts that represent my obession with numbers and fantasy football.
 
 ## File by File Walkthrough
 ### `2020 Advanced Positional Data.ipynb`
